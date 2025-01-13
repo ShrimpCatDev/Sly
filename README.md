@@ -1,10 +1,10 @@
 # Sly
 Slick support for Tiled in LÖVE
 
-#Demo
+# Demo
 This is the main.lua file
 ```lua
-slick=require("slick") --be sure to require slick before sly! for some reason it freaks out if you don't have it in the main folder...
+slick=require("slick") --be sure to require slick before sly! for some reason it gives you an error if you don't have it in the main folder...
 local sly = require("sly")
 local sti=require("lib/sti") --meh do this whenever you want if you need it
 
