@@ -1,6 +1,15 @@
 # Sly
 Slick support for Tiled in LÖVE
 
+### What Sly does support
+* object collision
+* setting whole layers to collidable objects
+
+### What sly does not support yet
+* tile collision
+* object rotation
+* elipse objects (just makes circles instead)
+
 # Demo
 This is the main.lua file
 ```lua
